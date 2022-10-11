@@ -48,3 +48,23 @@ Git es la mejor opción para la mayoría de los equipos de software actuales. Au
 Es un servicio de alojamiento de Internet para el desarrollo de software y el control de versiones mediante Git. Proporciona el control de versiones distribuidas de Git más control de acceso, seguimiento de errores, solicitudes de funciones de software, gestión de tareas, integración continua y wikis para cada proyecto.
 
 ![](lanalaloca.PNG)
+
+<br>
+
+# **GLOSARIO DE TÉRMINOS**
+
+## Control de versiones: 
+
+### El control de versiones, también conocido como "control de código fuente", es la práctica de rastrear y gestionar los cambios en el código de software.
+
+<br>
+
+## Alojamiento:
+
+### Es el servicio que provee a los usuarios de Internet un sistema para poder almacenar información, imágenes, vídeo, o cualquier contenido accesible vía web.
+ 
+<br>
+
+## Software:
+
+### Es un conjunto de programas, instrucciones y reglas informáticas que permiten ejecutar distintas tareas en una computadora. Se considera que el software es el equipamiento lógico e intangible de un ordenador.
